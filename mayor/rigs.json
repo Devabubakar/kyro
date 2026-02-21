@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rigs": {
+    "kyro": {
+      "git_url": "https://github.com/Devabubakar/kyro.git",
+      "added_at": "2026-02-12T12:39:14.725935188+03:00",
+      "beads": {
+        "repo": "",
+        "prefix": "ky"
+      }
+    }
+  }
+}

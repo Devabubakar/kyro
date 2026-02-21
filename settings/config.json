@@ -1,0 +1,14 @@
+{
+  "type": "town-settings",
+  "version": 1,
+  "default_agent": "codex-low",
+  "agents": {
+    "codex-low": {
+      "command": "codex",
+      "args": [
+        "--thinking",
+        "low"
+      ]
+    }
+  }
+}

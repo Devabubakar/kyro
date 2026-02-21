@@ -1,0 +1,4 @@
+{"ts":"2026-02-12T09:45:44Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"ky-xbg","target":"kyro/polecats/slit"},"visibility":"feed"}
+{"ts":"2026-02-12T09:46:03Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"ky-c18","target":"kyro/polecats/rictus"},"visibility":"feed"}
+{"ts":"2026-02-12T09:47:57Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"ky-e7f","target":"kyro/polecats/dementus"},"visibility":"feed"}
+{"ts":"2026-02-21T12:14:04Z","source":"gt","type":"mass_death","actor":"daemon","payload":{"count":3,"sessions":["ky-dementus","ky-furiosa","ky-nux"],"window":"30s"},"visibility":"feed"}

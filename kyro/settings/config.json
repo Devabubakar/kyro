@@ -1,0 +1,8 @@
+{
+  "runtime": {
+    "provider": "codex",
+    "command": "codex",
+    "args": ["--model", "gpt-4.1-mini"],
+    "prompt_mode": "none"
+  }
+}

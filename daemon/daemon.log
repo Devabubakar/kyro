@@ -1,0 +1,176 @@
+2026/02/21 15:13:42 Loaded patrol config from /home/dev/gt/mayor/daemon.json
+2026/02/21 15:13:42 Daemon starting (PID 98246)
+2026/02/21 15:13:42 Daemon running, recovery heartbeat interval 3m0s
+2026/02/21 15:13:42 Feed curator started
+2026/02/21 15:13:42 Convoy watcher started
+2026/02/21 15:13:42 KRC pruned 5 events (saved 678 bytes) in 11ms
+2026/02/21 15:13:42 KRC pruner started
+2026/02/21 15:13:42 Heartbeat starting (recovery-focused)
+2026/02/21 15:13:44 Deacon started successfully
+2026/02/21 15:13:44 Spawning Boot for triage...
+2026/02/21 15:13:44 Boot spawned successfully
+2026/02/21 15:13:44 Deacon started 0s ago, awaiting first heartbeat...
+2026/02/21 15:13:44 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:13:45 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:13:45 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:13:48 convoy watcher: detected close of ky-d3k
+2026/02/21 15:13:49 convoy watcher: detected close of ky-q7h
+2026/02/21 15:13:49 convoy watcher: detected close of ky-ung
+2026/02/21 15:13:53 Refinery session for kyro started successfully
+2026/02/21 15:13:54 CRASH DETECTED: polecat kyro/dementus has hook_bead=ky-e7f but session ky-dementus is dead
+2026/02/21 15:13:54 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:13:57 Warning: dirty working tree in /home/dev/gt/kyro/polecats/dementus/kyro, auto-stashing before pull
+2026/02/21 15:13:59 Successfully restarted crashed polecat kyro/dementus
+2026/02/21 15:14:00 CRASH DETECTED: polecat kyro/furiosa has hook_bead=ky-c00 but session ky-furiosa is dead
+2026/02/21 15:14:00 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:14:01 Warning: dirty working tree in /home/dev/gt/kyro/polecats/furiosa/kyro, auto-stashing before pull
+2026/02/21 15:14:04 Successfully restarted crashed polecat kyro/furiosa
+2026/02/21 15:14:04 CRASH DETECTED: polecat kyro/nux has hook_bead=ky-xbg but session ky-nux is dead
+2026/02/21 15:14:04 MASS DEATH DETECTED: 3 sessions died in 30s: [ky-dementus ky-furiosa ky-nux]
+2026/02/21 15:14:04 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:14:06 Warning: dirty working tree in /home/dev/gt/kyro/polecats/nux/kyro, auto-stashing before pull
+2026/02/21 15:14:10 Successfully restarted crashed polecat kyro/nux
+2026/02/21 15:14:10 CRASH DETECTED: polecat kyro/rictus has hook_bead=ky-c18 but session ky-rictus is dead
+2026/02/21 15:14:10 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:14:12 Warning: dirty working tree in /home/dev/gt/kyro/polecats/rictus/kyro, auto-stashing before pull
+2026/02/21 15:14:15 Successfully restarted crashed polecat kyro/rictus
+2026/02/21 15:14:15 CRASH DETECTED: polecat kyro/slit has hook_bead=ky-xbg but session ky-slit is dead
+2026/02/21 15:14:15 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:14:17 Warning: dirty working tree in /home/dev/gt/kyro/polecats/slit/kyro, auto-stashing before pull
+2026/02/21 15:14:20 Successfully restarted crashed polecat kyro/slit
+2026/02/21 15:14:20 Heartbeat complete (#1)
+2026/02/21 15:16:42 Heartbeat starting (recovery-focused)
+2026/02/21 15:16:42 Spawning Boot for triage...
+2026/02/21 15:16:46 Boot spawned successfully
+2026/02/21 15:16:46 Deacon started 3m2s ago, awaiting first heartbeat...
+2026/02/21 15:16:46 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:16:47 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:16:47 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:16:47 Refinery for kyro already running, skipping spawn
+2026/02/21 15:16:48 Heartbeat complete (#2)
+2026/02/21 15:19:48 Heartbeat starting (recovery-focused)
+2026/02/21 15:19:48 Spawning Boot for triage...
+2026/02/21 15:19:53 Boot spawned successfully
+2026/02/21 15:19:53 Deacon started 6m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:19:53 Killing stuck Deacon session hq-deacon
+2026/02/21 15:19:58 Deacon started successfully
+2026/02/21 15:19:58 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:19:59 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:19:59 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:19:59 Refinery for kyro already running, skipping spawn
+2026/02/21 15:20:02 Heartbeat complete (#3)
+2026/02/21 15:23:02 Heartbeat starting (recovery-focused)
+2026/02/21 15:23:02 Spawning Boot for triage...
+2026/02/21 15:23:06 Boot spawned successfully
+2026/02/21 15:23:06 Deacon started 3m7s ago, awaiting first heartbeat...
+2026/02/21 15:23:06 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:23:06 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:23:06 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:23:07 Refinery for kyro already running, skipping spawn
+2026/02/21 15:23:09 Heartbeat complete (#4)
+2026/02/21 15:26:09 Heartbeat starting (recovery-focused)
+2026/02/21 15:26:09 Spawning Boot for triage...
+2026/02/21 15:26:13 Boot spawned successfully
+2026/02/21 15:26:13 Deacon started 6m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:26:13 Killing stuck Deacon session hq-deacon
+2026/02/21 15:26:19 Deacon started successfully
+2026/02/21 15:26:19 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:26:19 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:26:19 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:26:20 Refinery for kyro already running, skipping spawn
+2026/02/21 15:26:21 Heartbeat complete (#5)
+2026/02/21 15:29:21 Heartbeat starting (recovery-focused)
+2026/02/21 15:29:21 Spawning Boot for triage...
+2026/02/21 15:29:25 Boot spawned successfully
+2026/02/21 15:29:25 Deacon started 3m6s ago, awaiting first heartbeat...
+2026/02/21 15:29:25 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:29:26 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:29:26 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:29:26 Refinery for kyro already running, skipping spawn
+2026/02/21 15:29:27 Heartbeat complete (#6)
+2026/02/21 15:32:27 Heartbeat starting (recovery-focused)
+2026/02/21 15:32:27 Spawning Boot for triage...
+2026/02/21 15:32:27 Boot spawned successfully
+2026/02/21 15:32:27 Deacon started 6m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:32:27 Killing stuck Deacon session hq-deacon
+2026/02/21 15:32:33 Deacon started successfully
+2026/02/21 15:32:33 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:32:34 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:32:34 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:32:34 Refinery for kyro already running, skipping spawn
+2026/02/21 15:32:35 Heartbeat complete (#7)
+2026/02/21 15:35:35 Heartbeat starting (recovery-focused)
+2026/02/21 15:35:35 Deacon restart in backoff, 58s remaining
+2026/02/21 15:35:35 Spawning Boot for triage...
+2026/02/21 15:35:35 Boot spawned successfully
+2026/02/21 15:35:35 Deacon started 3m2s ago, awaiting first heartbeat...
+2026/02/21 15:35:35 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:35:36 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:35:36 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:35:36 Refinery for kyro already running, skipping spawn
+2026/02/21 15:35:37 Heartbeat complete (#8)
+2026/02/21 15:38:37 Heartbeat starting (recovery-focused)
+2026/02/21 15:38:43 Deacon started successfully
+2026/02/21 15:38:43 Spawning Boot for triage...
+2026/02/21 15:38:43 Boot spawned successfully
+2026/02/21 15:38:43 Deacon started 0s ago, awaiting first heartbeat...
+2026/02/21 15:38:43 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:38:44 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:38:44 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:38:45 Refinery for kyro already running, skipping spawn
+2026/02/21 15:38:47 Heartbeat complete (#9)
+2026/02/21 15:41:47 Heartbeat starting (recovery-focused)
+2026/02/21 15:41:47 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:41:47 Spawning Boot for triage...
+2026/02/21 15:41:47 Boot spawned successfully
+2026/02/21 15:41:47 Deacon started 3m3s ago, awaiting first heartbeat...
+2026/02/21 15:41:47 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:41:47 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:41:47 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:41:47 Refinery for kyro already running, skipping spawn
+2026/02/21 15:41:48 Heartbeat complete (#10)
+2026/02/21 15:44:48 Heartbeat starting (recovery-focused)
+2026/02/21 15:44:48 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:44:48 Spawning Boot for triage...
+2026/02/21 15:44:48 Boot spawned successfully
+2026/02/21 15:44:48 Deacon started 6m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:44:48 Killing stuck Deacon session hq-deacon
+2026/02/21 15:44:52 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:44:52 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:44:53 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:44:53 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:44:53 Refinery for kyro already running, skipping spawn
+2026/02/21 15:44:54 Heartbeat complete (#11)
+2026/02/21 15:47:54 Heartbeat starting (recovery-focused)
+2026/02/21 15:47:54 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:47:54 Spawning Boot for triage...
+2026/02/21 15:47:54 Boot spawned successfully
+2026/02/21 15:47:54 Deacon started 9m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:47:54 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:47:54 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:47:54 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:47:54 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:47:54 Refinery for kyro already running, skipping spawn
+2026/02/21 15:47:55 Heartbeat complete (#12)
+2026/02/21 15:50:55 Heartbeat starting (recovery-focused)
+2026/02/21 15:50:55 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:50:55 Spawning Boot for triage...
+2026/02/21 15:50:56 Boot spawned successfully
+2026/02/21 15:50:56 Deacon started 12m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:50:56 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:50:56 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:50:56 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:50:56 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:50:56 Refinery for kyro already running, skipping spawn
+2026/02/21 15:50:57 Heartbeat complete (#13)
+2026/02/21 15:53:57 Heartbeat starting (recovery-focused)
+2026/02/21 15:53:57 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:53:57 Spawning Boot for triage...
+2026/02/21 15:53:57 Boot spawned successfully
+2026/02/21 15:53:57 Deacon started 15m0s ago but hasn't written heartbeat - restarting
+2026/02/21 15:53:57 Deacon is in crash loop, skipping restart (use 'gt daemon clear-backoff deacon' to reset)
+2026/02/21 15:53:57 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:53:58 Error starting witness for kyro: loading witness role config: bd show hq-witness-role --json: exit status 1
+2026/02/21 15:53:58 Warning: no wisp config for kyro - parked state may have been lost
+2026/02/21 15:53:58 Refinery for kyro already running, skipping spawn
+2026/02/21 15:53:59 Heartbeat complete (#14)
